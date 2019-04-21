@@ -1,6 +1,6 @@
 # Charging session backbone
 
-This is a result of a EVBox backend case. I do not know if assignment should be timeboxes but I started working on the case at 14:15 on April 21st and finished the case at 17:31 (I was trying to produce a solution in under 4 hours).
+This is a result of a EVBox backend case. I do not know if assignment should be timeboxed but I started working on the case at 14:15 on April 21st and finished the case at 17:31 (I was trying to produce a solution in under 4 hours).
 
 ## Software stack
 
